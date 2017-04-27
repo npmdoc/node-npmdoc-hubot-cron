@@ -1,6 +1,7 @@
 # npmdoc-hubot-cron
 
-api documentation for  [hubot-cron (v0.2.9)](https://github.com/miyagawa/hubot-cron)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-cron.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-cron) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-cron.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-cron)
+#### basic api documentation for  [hubot-cron (v0.2.9)](https://github.com/miyagawa/hubot-cron)  [![npm package](https://img.shields.io/npm/v/npmdoc-hubot-cron.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hubot-cron) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hubot-cron.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hubot-cron)
+
 #### Cron job messaging for hubot
 
 [![NPM](https://nodei.co/npm/hubot-cron.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hubot-cron)
@@ -57,7 +58,8 @@ api documentation for  [hubot-cron (v0.2.9)](https://github.com/miyagawa/hubot-c
         "url": "git://github.com/miyagawa/hubot-cron.git"
     },
     "scripts": {},
-    "version": "0.2.9"
+    "version": "0.2.9",
+    "bin": {}
 }
 ```
 
